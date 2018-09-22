@@ -14,7 +14,7 @@ int main(void)
 		if (zm >= 96 && zm < 123)
 			printf("这是小写");
 		else
-			printf("这是啥？");
+			printf("这是啥？？");
 
 
 }
