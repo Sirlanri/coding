@@ -3,10 +3,10 @@
 int main()
 {
 	printf("****************\n");
-	printf("*÷–            *\n");
-	printf("*   «Ô         *\n");
-	printf("*       øÏ     *\n");
-	printf("*           ¿÷ *\n");
+	printf("*√ñ√ê            *\n");
+	printf("*   √á√Ø         *\n");
+	printf("*       ¬ø√¨     *\n");
+	printf("*           √Ä√ñ *\n");
 	printf("****************\n");
 	
 return 0;
