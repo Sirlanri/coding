@@ -1,8 +1,7 @@
 #include<stdio.h>
 #pragma warning (disable:4996)
 int main()
-{ int=Y
-  int=N
+{ int=A;
 	printf ("回家否？Y/N/n");
    scanf（"%d",&A）;
  if(A=Y){
