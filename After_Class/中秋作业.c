@@ -4,10 +4,10 @@ int main()
 {
 	int  A;
 	int Y;
-	int N;
-	printf("回家否？YorN/n");
+	
+	printf("回家否？YorN ");
 	scanf("%d", &A);
-	if (A==Y) {
+	if (A=="Y") {
 		printf("****************\n");
 		printf("*中            *\n");
 		printf("*   秋         *\n");
