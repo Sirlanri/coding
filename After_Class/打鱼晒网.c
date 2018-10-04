@@ -14,6 +14,6 @@ int main() {
 			printf("大吉大利，今天打鱼！\n");
 		}
 		else
-			printf("今儿个筛网咯~~~\n");
+			printf("今儿个晒网咯~~~\n");
 	return 0;
 }
