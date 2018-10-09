@@ -7,14 +7,18 @@ int main() {
 		int g,s,b;
 	
 
-scanf("%d%d,m,n");
+scanf("%d%d",&m,&n);
 	for(i=m;i<=n;i++) {
 		g = i % 10;
 		s = (i / 10) % 10;
 		b = i / 100;
 			if(i==g*g*g+s*s*s+b*b*b)
-				{ printf("%d",i);}
+				{ 
+					printf("%d\n",i);
+			}
 			else ;
 	}
 	return 0;
 }
+
+ 
