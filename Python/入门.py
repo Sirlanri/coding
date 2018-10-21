@@ -39,8 +39,22 @@ print (f)          # 输出完整的字典
 print (f.keys())   # 输出所有键
 print (f.values()) # 输出所有值
 
-
-print("------------------")
 h=[1,2,3,4,5]
 print(h[::-1])#反向输出数组
 print(h[::-1][:3])#反向输出前3个数
+
+a!=b#表示a不等于b
+h=1
+i=2
+if (h==i):#简单的if判断语句
+    print("正确！")
+else:
+    print("不对！")
+x=h!=i#正确
+y=h==i#错误
+print(x and y)#判断的，数学知识_(:з」∠)_
+print(y or x)#一个对就算对
+print(not(y and x))#否定你懂得~
+
+print("---------------")
+
