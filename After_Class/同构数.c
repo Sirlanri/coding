@@ -23,7 +23,7 @@ int main()
 {
 	int a, b, i, x;
 
-	//printf("���뷶Χ�ǣ�\n");
+	//printf("ÊäÈë·¶Î§ÊÇ£¿\n");
 	scanf("%d%d", &i, &b);
 
 	han(i, b);
