@@ -2,12 +2,12 @@
 #pragma warning (disable:4996)
 int main()
 {
-	int  A;
-	int Y;
+	char A;
+	char Y;
 	
 	printf("回家否？YorN ");
-	scanf("%d", &A);
-	if (A=="Y") {
+	scanf("%c", &A);
+	if (A=='Y') {
 		printf("****************\n");
 		printf("*中            *\n");
 		printf("*   秋         *\n");
